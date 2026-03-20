@@ -20,7 +20,6 @@ public:
             j++;
         }
 
-        cout<<maxSum;
 
         return (double)maxSum/k;
         
