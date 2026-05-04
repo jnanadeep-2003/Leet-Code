@@ -6,9 +6,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/jnanadeep-2003/Leet-Code/tree/main/0048-rotate-image/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/jnanadeep-2003/Leet-Code/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/jnanadeep-2003/Leet-Code/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/jnanadeep-2003/Leet-Code/tree/main/0048-rotate-image/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/jnanadeep-2003/Leet-Code/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
