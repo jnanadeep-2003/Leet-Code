@@ -20,4 +20,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/jnanadeep-2003/Leet-Code/tree/main/0048-rotate-image/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/jnanadeep-2003/Leet-Code/tree/main/0796-rotate-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/jnanadeep-2003/Leet-Code/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
