@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/jnanadeep-2003/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/jnanadeep-2003/Leet-Code/tree/main/0048-rotate-image/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jnanadeep-2003/Leet-Code/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Matrix
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/jnanadeep-2003/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0796-rotate-string](https://github.com/jnanadeep-2003/Leet-Code/tree/main/0796-rotate-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jnanadeep-2003/Leet-Code/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## String Matching
@@ -34,4 +36,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jnanadeep-2003/Leet-Code/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/jnanadeep-2003/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
